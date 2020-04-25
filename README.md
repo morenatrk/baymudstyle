@@ -12,7 +12,7 @@
 <meta content="MSHTML 6.00.2900.2180" name="GENERATOR"></head><body style="background-color: pink" onload="ConvertIt(document.frmConvert);" vlink="#0000ff" bgcolor="#ffffff" link="#0000ff" text="#000080">
 <script language="JavaScript">
 str = new Array();
-str[65]="a";str[66]="ß";str[67]="C";str[68]="D";str[69]="e";str[70]="Ғ∫ךּדּ";str[71]="G";str[72]="H";str[73]="i";str[74]="J";str[75]="q";str[76]="L";str[77]="M";str[78]="N";str[79]="o";str[80]="P";str[81]="q";str[82]="R";str[83]="S";str[84]="T";str[85]="U";str[86]="V";str[87]="W";str[88]="x";str[89]="Y";str[90]="z";
+str[65]="a";str[66]="ß";str[67]="C";str[68]="D";str[69]="e";str[70]="Ғ∫ךּדּ";str[71]="G";str[72]="H";str[73]="i";str[74]="J";str[75]="q";str[76]="L";str[77]="M";str[78]="N";str[79]="o";str[80]="P";str[81]="q";str[82]="R";str[83]="S";str[84]="T";str[85]="u";str[86]="V";str[87]="W";str[88]="x";str[89]="Y";str[90]="z";
 
 function ConvertIt(frm) {
     str1 = frm.txtInput.value
